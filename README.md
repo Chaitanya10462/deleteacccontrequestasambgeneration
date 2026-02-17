@@ -11,7 +11,7 @@ To delete your account associated with this app, follow the instructions below:
 
 ### Step 1: Visit the Account Deletion Request Page
 Click the link below to go to the page where you can submit a request for account deletion:
-[Request Account Deletion]([https://neml.in/datadeleterequest.html](https://1-0.neml.in/datadeleterequest.html))
+[Request Account Deletion](https://1-0.neml.in/datadeleterequest.html)
 
 ### Step 2: Submit Your Request
 On the account deletion page, you'll be asked to provide details such as your account email or username to help us verify your identity.
