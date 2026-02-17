@@ -1,4 +1,4 @@
-<img alt="alt_text" width="100px" src="https://play-lh.googleusercontent.com/m8lokdI6HGiKLP6cdE6qCDXqZqTxnz-aZknj_IqwwwnldT5cJCfXd_QooKb90E2qNn0=w240-h480-rw" />
+<img alt="alt_text" width="100px" src="https://lh3.googleusercontent.com/OHvxJW_5477cxUUAQgV_tMtLVKd-2-9GFWycMfTCxFPk-WiVZi1zMbnOiLyg-6ezKolWGrW65lk6bhTtO6tCVA" />
 
 # ASAMB ePermit Generation
 
